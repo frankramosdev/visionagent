@@ -17,6 +17,6 @@
 
 
 ### Tech Stack:
-[LiveKit Agents](https://github.com/livekit-examples/agent-starter-react)
-[NVIDIA Nemotron Nano 9B v2 provided by OpenRouter](https://openrouter.ai/nvidia/nemotron-nano-9b-v2:free)
-[Akash Network Starter](https://github.com/akash-network/hello-akash-world)
+- [LiveKit Agents](https://github.com/livekit-examples/agent-starter-react)
+- [NVIDIA Nemotron Nano 9B v2 provided by OpenRouter](https://openrouter.ai/nvidia/nemotron-nano-9b-v2:free)
+- [Akash Network Starter](https://github.com/akash-network/hello-akash-world)
