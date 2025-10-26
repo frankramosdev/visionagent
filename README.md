@@ -1,8 +1,8 @@
-#Vision Agent
-###Austin Tech Week Hackathon October 26, 20205
+# Vision Agent
+#### Austin Tech Week Hackathon October 26, 2025
 
 
-###Features
+### Features
 
 - **Voice Interaction:** Speech-to-text and text-to-speech capabilities
 - **Vision Analysis:** Can process images shared by users and analyze video camera feeds
@@ -12,7 +12,7 @@
 - **Image Processing:** Handles both uploaded images and live video streams
 
 
-###Akash Network
+### Akash Network
 [Stack Definition Language (SDL) file](./deploy.yml)
 
 
